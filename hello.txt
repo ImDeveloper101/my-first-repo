@@ -3,3 +3,4 @@ my first assignment
 get
 hello google
 i am learner
+my first typing
