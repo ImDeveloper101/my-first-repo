@@ -4,4 +4,4 @@ get
 hello google
 i am learner
 my first typing
-i m tryingS
+i m trying.
